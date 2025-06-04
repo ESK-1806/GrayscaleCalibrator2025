@@ -2,6 +2,8 @@
 
 **GrayscaleCalibrator2025** is an interactive MATLAB-based application designed for grayscale intensity calibration and image-based measurement tasks, particularly useful in colorimetry, grayscale analysis, and material concentration estimation using photographic inputs.
 
+![GUI](Image_analysis_Interface.png)
+
 ## 🔍 Features
 
 - 📷 **Image Upload & Display**
